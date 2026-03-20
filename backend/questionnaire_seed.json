@@ -1,0 +1,17 @@
+[
+  {"question_id":"Q1","question":"Are you remodeling the entire kitchen or just replacing cabinets?","category":"discovery","is_active":true},
+  {"question_id":"Q2","question":"Is this kitchen for your primary home or a rental property?","category":"discovery","is_active":true},
+  {"question_id":"Q3","question":"What is the approximate size or layout of your kitchen?","category":"discovery","is_active":true},
+  {"question_id":"Q4","question":"Are you planning to keep the same layout or redesign the kitchen?","category":"discovery","is_active":true},
+  {"question_id":"Q5","question":"Do you have a preferred cabinet style (Shaker, flat panel, traditional)?","category":"qualification","is_active":true},
+  {"question_id":"Q6","question":"Do you have a preferred cabinet color or finish?","category":"qualification","is_active":true},
+  {"question_id":"Q7","question":"What budget range are you targeting for your kitchen cabinets?","category":"qualification","is_active":true},
+  {"question_id":"Q8","question":"Would you like to schedule a design consultation or review designs?","category":"sales","is_active":true},
+  {"question_id":"Q9","question":"What are your thoughts about the design proposal we shared?","category":"sales","is_active":true},
+  {"question_id":"Q10","question":"Are you comparing quotes from other companies?","category":"objection_handling","is_active":true},
+  {"question_id":"Q11","question":"What materials are the other companies offering?","category":"objection_handling","is_active":true},
+  {"question_id":"Q12","question":"Would you like help reviewing the competitor quote?","category":"objection_handling","is_active":true},
+  {"question_id":"Q13","question":"Are there any concerns about pricing or materials?","category":"objection_handling","is_active":true},
+  {"question_id":"Q14","question":"Are you interested in additional features like soft-close drawers or organizers?","category":"sales","is_active":true},
+  {"question_id":"Q15","question":"Do you have any concerns about delivery timelines or installation?","category":"objection_handling","is_active":true}
+]
